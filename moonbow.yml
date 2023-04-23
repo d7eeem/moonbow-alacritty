@@ -1,0 +1,22 @@
+# Colors (Base16 Default Dark)
+colors:
+  # Default colors
+  primary:
+    background: '#0A0E14'
+    foreground: '#B3B1AD'
+
+  # Colors the cursor will use if `custom_cursor_colors` is true
+  cursor:
+    text: '#be5046'
+    cursor: '#4D5566'
+
+  # Normal colors
+  normal:
+    black:   '#0A0E14'
+    red:     '#fb4934'
+    green:   '#8ec07c'
+    yellow:  '#fabd2f'
+    blue:    '#076678'
+    magenta: '#8f3f71'
+    cyan:    '#83a598'
+    white:   '#f9f5d7'
